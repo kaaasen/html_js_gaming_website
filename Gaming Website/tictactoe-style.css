@@ -1,0 +1,18 @@
+td {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	border: 1px solid black;
+	cursor: pointer;
+  }
+  
+  #game-result {
+	font-size: 60px;
+	font-weight: bolder;
+	background: -webkit-linear-gradient(left, #ee82ee, #4b0082, #0000ff, #008000, #ffff00, #ffa500, #ff0000);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
+  

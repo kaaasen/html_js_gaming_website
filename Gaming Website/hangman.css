@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#word, #alphabet {
+  margin: 20px;
+  font-size: 2em;
+}
+
+#alphabet {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 10px;
+}
+
+#hangman {
+  margin: 20px;
+  text-align: center;
+}
+
+#hangman-ascii {
+  font-size: 24px;
+}
